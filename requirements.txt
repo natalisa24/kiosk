@@ -1,4 +1,4 @@
 streamlit
 qrcode[pil]
-streamlit
 pillow
+speechrecognition
